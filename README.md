@@ -1,4 +1,4 @@
-![Header](Images/.png)
+![Header](Images/myinfoheader.gif)
 
 <h1 align="center">Hi <img src="Images/wave.gif" width="30px" height="30px" /> I'm ATOMNFT</h1>
 <h3 align="center">A tinkerer from the US. Designing, building and testing are my passions</h3>
