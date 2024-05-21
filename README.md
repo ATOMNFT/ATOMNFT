@@ -5,11 +5,6 @@
 
 <br><br>
 
-<p align="center">
-<a href="#"> <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
-  </a>
-</p>
-
 ___
 
 <details>
