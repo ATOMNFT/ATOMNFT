@@ -1,6 +1,6 @@
 ![Header](Images/.png)
 
-<h1 align="center">Hi 👋, I'm ATOMNFT</h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I'm ATOMNFT</h1>
 <h3 align="center">A tinkerer from the US. Designing, building and testing are my passions</h3>
 
 <br><br>
