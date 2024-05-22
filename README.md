@@ -1,7 +1,7 @@
 ![Header](Images/myinfoheader.gif)
 
 <h1 align="center">Hi <img src="Images/wave.gif" width="30px" height="30px" /> I'm ATOMNFT</h1>
-<h3 align="center">A tinkerer from the US. Designing, building and testing are my passions</h3>
+<h3 align="center">A tinkerer & designer from the US. Designing, building and testing are my passions</h3>
 
 <div align="center">
 I am a professional freelance graphic designer, accomplished artist, and tech enthusiast. I take pride in contributing to the innovative art and technology landscape. Inspired by my mother, a talented traditional artist, I developed a passion for art from an early age. Over the years, I have completed numerous projects for clients, ranging from e-juice companies to barbecue spice companies.
