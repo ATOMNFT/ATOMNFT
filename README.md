@@ -4,7 +4,7 @@
 <h3 align="center">A tinkerer from the US. Designing, building and testing are my passions</h3>
 
 <div align="center">
-My name is Stephen Middleton (ATOMNFT), and I am a professional freelance graphic designer, accomplished artist, and tech enthusiast. I take pride in contributing to the innovative art and technology landscape. Inspired by my mother, a talented traditional artist, I developed a passion for art from an early age. Over the years, I have completed numerous projects for clients, ranging from e-juice companies to barbecue spice companies.
+I am a professional freelance graphic designer, accomplished artist, and tech enthusiast. I take pride in contributing to the innovative art and technology landscape. Inspired by my mother, a talented traditional artist, I developed a passion for art from an early age. Over the years, I have completed numerous projects for clients, ranging from e-juice companies to barbecue spice companies.
 
 <br>
 <br>
