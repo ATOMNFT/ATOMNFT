@@ -6,10 +6,12 @@
 <div align="center">
 My name is Stephen Middleton (ATOMNFT), and I am a professional freelance graphic designer, accomplished artist, and tech enthusiast. I take pride in contributing to the innovative art and technology landscape. Inspired by my mother, a talented traditional artist, I developed a passion for art from an early age. Over the years, I have completed numerous projects for clients, ranging from e-juice companies to barbecue spice companies.
 
+<br>
+
 Beyond my artistic pursuits, I have a deep interest in creating, tinkering, coding, building, and designing tech. My expertise extends to working with Arduino, ESP32, and IoT technologies. I am constantly learning and exploring new ways to integrate art and technology, driving forward both creative and technical advancements.
 </div>
 
-<br><br>
+<br>
 
 ___
 
