@@ -13,7 +13,6 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 </div>
 
 <br>
-___
 
 <details>
 <summary>⚡️ Git Stats</summary>
