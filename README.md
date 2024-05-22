@@ -14,6 +14,8 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 
 <br>
 
+---
+
 <details>
 <summary>⚡️ Git Stats</summary>
 <p align="left">
