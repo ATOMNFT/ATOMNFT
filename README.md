@@ -70,6 +70,7 @@ ___
 <a href="https://github.com/ATOMNFT?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
+---
 
 ## <p align="center"> I dabble in, but am still learning these languages </p>
 <div align="center">  
