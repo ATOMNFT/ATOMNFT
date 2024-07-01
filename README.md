@@ -45,7 +45,11 @@ ___
   <a href=https://github.com/ATOMNFT/ESP32-S2-Mini-Marauder-Build>ESP32 S2 Mini Marauder Build (ESP32 Marauder)</a> </p>
 
 <p align="left"> 
-  <a href=https://github.com/ATOMNFT/ESP32-S2-Mini-Marauder-Build>ESP32 S2 Mini Marauder Build (ESP32 Marauder)</a> </p>
+  <a href=https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool>ESP32 WiFi Penetration Tool </a> </p>
+
+
+<p align="left"> 
+  <a href=https://github.com/ATOMNFT/M5stick-Marauder>M5stick Marauder </a> </p>
 </details>
 
 
