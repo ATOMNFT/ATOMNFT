@@ -56,10 +56,9 @@ ___
 
   <!-- Repo info cards - https://github.com/ATOMNFT/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/ATOMNFT/github-readme-stats -->
-  <p align="left">
-    (https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=MULTI-Minigotchi-ESP32&show_icons=true&theme=chartreuse-dark)](https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32) 
+    <p align="left">
+	<a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=MULTI-Minigotchi-ESP32&show_icons=true&theme=chartreuse-dark&icon_color=F8D866&show_icons=true" alt="MULTI-Minigotchi-ESP32"></a>
 	</p>
-    <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32"></a>
   </p>
 
 </details>
