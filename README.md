@@ -35,10 +35,27 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 
 ___
 
-<br>
+## Looking for ESP32 Flasher tools
+<details>
+<summary>⚡️ ESP32 Flash Tools</summary>
+<p align="left">
+  <a href=https://github.com/ATOMNFT/CM-Box>ESP32 CM-Box (ESP32 Marauder)</a> </p>
+  
+<p align="left">
+  <a href=https://github.com/ATOMNFT/ESP32-S2-Mini-Marauder-Build>ESP32 S2 Mini Marauder Build (ESP32 Marauder)</a> </p>
+
+<p align="left"> 
+  <a href=https://github.com/ATOMNFT/ESP32-S2-Mini-Marauder-Build>ESP32 S2 Mini Marauder Build (ESP32 Marauder)</a> </p>
+</details>
 
 
-## <p align="center"> I dabble, but am still learning these languages </p>
+
+
+<a href="https://github.com/ATOMNFT?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+
+## <p align="center"> I dabble in, but am still learning these languages </p>
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
