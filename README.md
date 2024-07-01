@@ -17,7 +17,7 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 ---
 
 <details open>
-<summary>⚡️ Git Stats</summary>
+<summary><h2>⚡️ Git Stats</h2></summary>
 <a href="https://github.com/ATOMNFT/ATOMNFT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATOMNFT&hide=java,html,tex&title_color=AAFF00&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
