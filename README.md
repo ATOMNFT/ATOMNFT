@@ -15,7 +15,7 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 ---
 <!--ILOVEOPENSOURCE-->
 <p align="center">
-<img src="Images/ILOS.gif" height="20" width="100%">
+<img src="Images/ILOS.gif" height="60" width="100%">
 </p>
 
 <details open>
