@@ -52,7 +52,7 @@ ___
 ---
 
 <details open> 
-  <summary><h2>📘 Top Open Source Projects</h2></summary>
+  <summary><h2>📘 Projects I've contributed to</h2></summary>
   <!-- Repo info cards - https://github.com/ATOMNFT/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/ATOMNFT/github-readme-stats -->
     <p align="left">
