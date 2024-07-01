@@ -57,7 +57,7 @@ ___
   <!-- Repo info cards - https://github.com/ATOMNFT/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/ATOMNFT/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/ATOMNFT/CM-Box"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/ATOMNFT/CM-Box"><img width="278" src=""></a>
     <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32"></a>
   </p>
 
