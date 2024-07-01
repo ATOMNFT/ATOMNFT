@@ -22,7 +22,7 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATOMNFT&hide=java,html,tex&title_color=AAFF00&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/ATOMNFT/ATOMNFT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ATOMNFT&show_icons=true&line_height=27&count_private=true&title_color=AAFF00&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ATOMNFT&show_icons=true&icon_color=F8D866&line_height=27&count_private=true&title_color=AAFF00&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomnft&label=Profile%20views&color=0e75b6&style=flat" alt="atomnft" /> </p>
@@ -35,9 +35,9 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
   <summary><h2>📘 Projects I've contributed to</h2></summary>
   <!-- Repo info cards - https://github.com/ATOMNFT/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/ATOMNFT/github-readme-stats -->
-	<a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=MULTI-Minigotchi-ESP32&show_icons=true&theme=chartreuse-dark&icon_color=F8D866&show_icons=true" alt="MULTI-Minigotchi-ESP32">
+	<a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=MULTI-Minigotchi-ESP32&show_icons=true&theme=chartreuse-dark&title_color=AAFF00&icon_color=F8D866&show_icons=true" alt="MULTI-Minigotchi-ESP32">
 	</a>
-	<a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=ESP32-Wi-Fi-Penetration-Tool&show_icons=true&theme=chartreuse-dark&icon_color=F8D866&show_icons=true" alt="ESP32-Wi-Fi-Penetration-Tool">
+	<a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=ESP32-Wi-Fi-Penetration-Tool&show_icons=true&theme=chartreuse-dark&title_color=AAFF00&icon_color=F8D866&show_icons=true" alt="ESP32-Wi-Fi-Penetration-Tool">
 	</a>
 
 </details>
