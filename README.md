@@ -16,7 +16,7 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 
 ---
 
-<details>
+<details open>
 <summary>⚡️ Git Stats</summary>
 <p align="left">
   <a href="https://github.com/ATOMNFT">
@@ -36,7 +36,7 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 ___
 
 ## Looking for ESP32 Flasher Tools
-<details>
+<details open>
 <summary>⚡️ ESP32 Flash Tools</summary>
 <p align="left">
   <a href=https://github.com/ATOMNFT/CM-Box>ESP32 CM-Box (ESP32 Marauder)</a> </p>
