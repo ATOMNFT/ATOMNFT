@@ -19,10 +19,10 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 <details open>
 <summary><h2>⚡️ Git Stats</h2></summary>
 <a href="https://github.com/ATOMNFT/ATOMNFT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATOMNFT&hide=java,html,tex&title_color=AAFF00&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATOMNFT&hide=java,html,tex&theme=chartreuse-dark&title_color=AAFF00&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/ATOMNFT/ATOMNFT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ATOMNFT&show_icons=true&line_height=27&count_private=true&title_color=AAFF00&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ATOMNFT&show_icons=true&line_height=27&count_private=true&theme=chartreuse-dark&title_color=AAFF00&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomnft&label=Profile%20views&color=0e75b6&style=flat" alt="atomnft" /> </p>
