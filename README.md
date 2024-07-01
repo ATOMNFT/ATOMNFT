@@ -57,7 +57,8 @@ ___
   <!-- Repo info cards - https://github.com/ATOMNFT/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/ATOMNFT/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/ATOMNFT/CM-Box"><img width="278" src=""></a>
+    (https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=MULTI-Minigotchi-ESP32&show_icons=true&theme=chartreuse-dark)](https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32) 
+	</p>
     <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32"></a>
   </p>
 
