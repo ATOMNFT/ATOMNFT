@@ -12,9 +12,11 @@ I am a professional freelance graphic designer, accomplished artist, and tech en
 Beyond my artistic pursuits, I have a deep interest in creating, tinkering, coding, building, and designing tech. My expertise extends to working with Arduino, ESP32, and IoT technologies. I am constantly learning and exploring new ways to integrate art and technology, driving forward both creative and technical advancements.
 </div>
 
-<br>
-
 ---
+<!--ILOVEOPENSOURCE-->
+<p align="center">
+<img src="Images/ILOS.gif" height="20" width="100%">
+</p>
 
 <details open>
 <summary><h2>⚡️ Git Stats</h2></summary>
