@@ -34,7 +34,7 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 <details open> 
   <summary><h2>📘 Projects I've contributed to</h2></summary>
   <!-- Repo info cards - https://github.com/ATOMNFT/github-readme-stats -->
-  
+  <!-- Small repo cards (fork) - https://github.com/ATOMNFT/github-readme-stats -->
 	<a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=MULTI-Minigotchi-ESP32&show_icons=true&theme=chartreuse-dark&icon_color=F8D866&show_icons=true" alt="MULTI-Minigotchi-ESP32">
 	</a>
 	<a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=ESP32-Wi-Fi-Penetration-Tool&show_icons=true&theme=chartreuse-dark&icon_color=F8D866&show_icons=true" alt="ESP32-Wi-Fi-Penetration-Tool">
