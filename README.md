@@ -58,7 +58,6 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 <summary>⚡️ ESP32 Flash Tools</summary>
 <p align="left"> 
   <a href=https://github.com/ATOMNFT/Marauder-T-display-TTGO>T-Display Marauder </a> </p>
-</details>
 
 <p align="left">
   <a href=https://github.com/ATOMNFT/CM-Box>ESP32 CM-Box (ESP32 Marauder)</a> </p>
