@@ -24,7 +24,7 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 <a  href="https://github.com/ATOMNFT">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATOMNFT&theme=aura_dark)
-[![](https://raw.githubusercontent.com/ATOMNFT/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/ATOMNFT/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/ATOMNFT/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/ATOMNFT/github-profile-summary-cards)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ATOMNFT&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ATOMNFT&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ATOMNFT&theme=aura_dark)
