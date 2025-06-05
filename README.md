@@ -53,7 +53,7 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 
 ---
 
-# Looking for ESP32 Flasher Tools
+# 🔎 **Looking for ESP32 Flasher Tools**
 <details open>
 <summary>⚡️ ESP32 Flash Tools ⚡️</summary>
 <p align="left"> 
