@@ -55,9 +55,12 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 
 # Looking for ESP32 Flasher Tools
 <details open>
-<summary>⚡️ ESP32 Flash Tools</summary>
+<summary>⚡️ ESP32 Flash Tools ⚡️</summary>
 <p align="left"> 
   <a href=https://github.com/ATOMNFT/Marauder-T-display-TTGO>T-Display Marauder </a> </p>
+  
+<p align="left"> 
+  <a href=https://github.com/ATOMNFT/ESP32_C3_SuperMini_Marauder_Flasher>ESP32-C3 Super Mini Marauder </a> </p>
 
 <p align="left">
   <a href=https://github.com/ATOMNFT/CM-Box>ESP32 CM-Box (ESP32 Marauder)</a> </p>
