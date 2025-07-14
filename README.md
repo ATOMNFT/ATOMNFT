@@ -56,7 +56,7 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 # 🔎 **Looking for ESP32 Flasher Tools**
 
 <a href="https://atomnft.github.io/AtomNFTs-Firmware-Dashboard/">
-  <img src="https://github.com/ATOMNFT/ATOMNFT/blob/main/Images/FD-Button.png?raw=true" alt="FD Button" width="350" />
+  <img src="https://github.com/ATOMNFT/ATOMNFT/blob/main/Images/FD-Button.png?raw=true" alt="FD Button" width="500" />
 </a>
 
 ---
