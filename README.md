@@ -57,6 +57,10 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 
 [![](https://github.com/ATOMNFT/ATOMNFT/blob/main/Images/FD-Button.png)](https://atomnft.github.io/AtomNFTs-Firmware-Dashboard/)
 
+<a href="https://atomnft.github.io/AtomNFTs-Firmware-Dashboard/">
+  <img src="https://github.com/ATOMNFT/ATOMNFT/blob/main/Images/FD-Button.png?raw=true" alt="FD Button" width="150" />
+</a>
+
 ---
 
 ## <p align="center"> I dabble in, but am still learning these languages </p>
