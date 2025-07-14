@@ -54,23 +54,8 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 ---
 
 # 🔎 **Looking for ESP32 Flasher Tools**
-<details open>
-<summary>⚡️ ESP32 Flash Tools ⚡️</summary>
-<p align="left"> 
-  <a href=https://github.com/ATOMNFT/Marauder-T-display-TTGO>T-Display Marauder </a> </p>
-  
-<p align="left"> 
-  <a href=https://github.com/ATOMNFT/ESP32_C3_SuperMini_Marauder_Flasher>ESP32-C3 Super Mini Marauder </a> </p>
 
-<p align="left">
-  <a href=https://github.com/ATOMNFT/ESP32-S2-Mini-Marauder-Build>ESP32 S2 Mini Marauder Build (ESP32 Marauder)</a> </p>
-
-<p align="left"> 
-  <a href=https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool>ESP32 WiFi Penetration Tool </a> </p>
-  
-<p align="left"> 
-  <a href=https://github.com/ATOMNFT/Panda-Token-Ticker>$PANDA Token Ticker </a> </p>
-</details>
+[![](https://github.com/ATOMNFT/ATOMNFT/tree/main/Images/FD-Button.png)](https://atomnft.github.io/AtomNFTs-Firmware-Dashboard/)
 
 ---
 
