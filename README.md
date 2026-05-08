@@ -48,27 +48,38 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 
 <details open>
   <summary>
-    <h2>📘 Projects I've contributed to</h2>
+    <strong>📘 Projects I've contributed to</strong>
   </summary>
 
-  <!-- Repo info cards - https://github.com/ATOMNFT/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/ATOMNFT/github-readme-stats -->
+  <br>
 
-  <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32">
-    <img
-      width="278"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=MULTI-Minigotchi-ESP32&theme=chartreuse-dark&title_color=AAFF00&icon_color=F8D866"
-      alt="MULTI-Minigotchi-ESP32"
-    />
-  </a>
+  <table align="center">
+    <tr>
+      <td align="center" width="360">
+        <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32">
+          <strong>⚡ MULTI-Minigotchi-ESP32</strong>
+        </a>
+        <br>
+        <sub>ESP32 Minigotchi project</sub>
+        <br><br>
+        <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32">
+          <img src="https://img.shields.io/badge/Open%20Repo-AAFF00?style=for-the-badge&logo=github&logoColor=black&labelColor=1F222E" alt="Open Repo">
+        </a>
+      </td>
 
-  <a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool">
-    <img
-      width="278"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=ESP32-Wi-Fi-Penetration-Tool&theme=chartreuse-dark&title_color=AAFF00&icon_color=F8D866"
-      alt="ESP32-Wi-Fi-Penetration-Tool"
-    />
-  </a>
+      <td align="center" width="360">
+        <a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool">
+          <strong>📡 ESP32 Wi-Fi Penetration Tool</strong>
+        </a>
+        <br>
+        <sub>ESP32 Wi-Fi security tool</sub>
+        <br><br>
+        <a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool">
+          <img src="https://img.shields.io/badge/Open%20Repo-AAFF00?style=for-the-badge&logo=github&logoColor=black&labelColor=1F222E" alt="Open Repo">
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </details>
 
