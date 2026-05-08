@@ -22,6 +22,7 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 </div>
 
 ---
+
 <!--ILOVEOPENSOURCE-->
 <p align="center">
 <img src="Images/ILOS.gif" height="100" width="100%">
@@ -42,7 +43,6 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomnft&label=Profile%20views&color=0e75b6&style=flat" alt="atomnft" /> </p>
 </details>
-
 
 ---
 
@@ -92,9 +92,9 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a> 
-</div>  
-
-___
+</div>
+  
+---
 
 <p align="left">
 <a href="https://github.com/ATOMNFT" target="_blank">
