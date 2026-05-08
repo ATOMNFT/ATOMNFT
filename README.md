@@ -54,12 +54,12 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
       <td align="center" width="360">
         <a href="https://github.com/dj1ch/minigotchi-ESP32"><strong>⚡ Original Minigotchi-ESP32</strong></a><br>
         <sub>ESP32 Minigotchi project</sub><br><br>
-        <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32"><img src="https://img.shields.io/badge/Open%20Repo-AAFF00?style=for-the-badge&logo=github&logoColor=black&labelColor=1F222E" alt="OpenForked Repo"></a>
+        <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32"><img src="https://img.shields.io/badge/Open%20Forked%20Repo-AAFF00?style=for-the-badge&logo=github&logoColor=black&labelColor=1F222E" alt="Open Forked Repo"></a>
       </td>
       <td align="center" width="360">
         <a href="https://github.com/risinek/esp32-wifi-penetration-tool"><strong>📡 Original ESP32 Wi-Fi Penetration Tool</strong></a><br>
         <sub>ESP32 Wi-Fi security tool</sub><br><br>
-        <a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool"><img src="https://img.shields.io/badge/Open%20Repo-AAFF00?style=for-the-badge&logo=github&logoColor=black&labelColor=1F222E" alt="OpenForked Repo"></a>
+        <a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool"><img src="https://img.shields.io/badge/Open%20Forked%20Repo-AAFF00?style=for-the-badge&logo=github&logoColor=black&labelColor=1F222E" alt="Open Forked Repo"></a>
       </td>
     </tr>
   </table>
