@@ -2,6 +2,15 @@
 
 <h1 align="center">Hi <img src="Images/wave.gif" width="30px" height="30px" /> I'm ATOMNFT</h1>
 <h3 align="center">As a dedicated tinkerer and designer from the US, I am passionate about creating, building, and rigorously testing innovative solutions.</h3>
+<p align="center">
+  <a href="https://github.com/ATOMNFT?tab=repositories&sort=stargazers">
+    <img
+      alt="All Repositories"
+      title="All Repositories"
+      src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"
+    />
+  </a>
+</p>
 
 <div align="center">
 I am a professional freelance graphic designer, accomplished artist, and tech enthusiast. I take pride in contributing to the innovative art and technology landscape. Inspired by my mother, a talented traditional artist, I developed a passion for art from an early age. Over the years, I have completed numerous projects for clients, ranging from e-juice companies to barbecue spice companies.
@@ -37,18 +46,30 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 
 ---
 
-<details open> 
-  <summary><h2>📘 Projects I've contributed to</h2></summary>
+<details open>
+  <summary>
+    <h2>📘 Projects I've contributed to</h2>
+  </summary>
+
   <!-- Repo info cards - https://github.com/ATOMNFT/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/ATOMNFT/github-readme-stats -->
-	<a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=MULTI-Minigotchi-ESP32&show_icons=true&theme=chartreuse-dark&title_color=AAFF00&icon_color=F8D866&show_icons=true" alt="MULTI-Minigotchi-ESP32">
-	</a>
-	<a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=ESP32-Wi-Fi-Penetration-Tool&show_icons=true&theme=chartreuse-dark&title_color=AAFF00&icon_color=F8D866&show_icons=true" alt="ESP32-Wi-Fi-Penetration-Tool">
-	</a>
 
-</details>
+  <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32">
+    <img
+      width="278"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=MULTI-Minigotchi-ESP32&theme=chartreuse-dark&title_color=AAFF00&icon_color=F8D866"
+      alt="MULTI-Minigotchi-ESP32"
+    />
+  </a>
 
-<a href="https://github.com/ATOMNFT?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool">
+    <img
+      width="278"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=ESP32-Wi-Fi-Penetration-Tool&theme=chartreuse-dark&title_color=AAFF00&icon_color=F8D866"
+      alt="ESP32-Wi-Fi-Penetration-Tool"
+    />
+  </a>
+
 </details>
 
 ---
