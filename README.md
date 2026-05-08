@@ -52,7 +52,7 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
   <table align="center">
     <tr>
       <td align="center" width="360">
-        <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32"><strong>⚡ MULTI-Minigotchi-ESP32</strong></a><br>
+        <a href="https://github.com/dj1ch/minigotchi-ESP32"><strong>⚡ MULTI-Minigotchi-ESP32</strong></a><br>
         <sub>ESP32 Minigotchi project</sub><br><br>
         <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32"><img src="https://img.shields.io/badge/Open%20Repo-AAFF00?style=for-the-badge&logo=github&logoColor=black&labelColor=1F222E" alt="Open Repo"></a>
       </td>
