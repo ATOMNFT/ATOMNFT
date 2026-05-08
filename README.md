@@ -47,40 +47,22 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 ---
 
 <details open>
-  <summary>
-    <strong>📘 Projects I've contributed to</strong>
-  </summary>
-
+  <summary><strong>📘 Projects I've contributed to</strong></summary>
   <br>
-
   <table align="center">
     <tr>
       <td align="center" width="360">
-        <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32">
-          <strong>⚡ MULTI-Minigotchi-ESP32</strong>
-        </a>
-        <br>
-        <sub>ESP32 Minigotchi project</sub>
-        <br><br>
-        <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32">
-          <img src="https://img.shields.io/badge/Open%20Repo-AAFF00?style=for-the-badge&logo=github&logoColor=black&labelColor=1F222E" alt="Open Repo">
-        </a>
+        <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32"><strong>⚡ MULTI-Minigotchi-ESP32</strong></a><br>
+        <sub>ESP32 Minigotchi project</sub><br><br>
+        <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32"><img src="https://img.shields.io/badge/Open%20Repo-AAFF00?style=for-the-badge&logo=github&logoColor=black&labelColor=1F222E" alt="Open Repo"></a>
       </td>
-
       <td align="center" width="360">
-        <a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool">
-          <strong>📡 ESP32 Wi-Fi Penetration Tool</strong>
-        </a>
-        <br>
-        <sub>ESP32 Wi-Fi security tool</sub>
-        <br><br>
-        <a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool">
-          <img src="https://img.shields.io/badge/Open%20Repo-AAFF00?style=for-the-badge&logo=github&logoColor=black&labelColor=1F222E" alt="Open Repo">
-        </a>
+        <a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool"><strong>📡 ESP32 Wi-Fi Penetration Tool</strong></a><br>
+        <sub>ESP32 Wi-Fi security tool</sub><br><br>
+        <a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool"><img src="https://img.shields.io/badge/Open%20Repo-AAFF00?style=for-the-badge&logo=github&logoColor=black&labelColor=1F222E" alt="Open Repo"></a>
       </td>
     </tr>
   </table>
-
 </details>
 
 ---
