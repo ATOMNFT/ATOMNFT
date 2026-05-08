@@ -51,7 +51,7 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
     <strong>📘 Projects I've contributed to</strong>
   </summary>
 
-  <br>
+
 
   <p align="center">
     <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32">
