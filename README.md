@@ -48,28 +48,28 @@ Beyond my artistic pursuits, I have a deep interest in creating, tinkering, codi
 
 <details open>
   <summary>
-    <strong>📘 Projects I've contributed to</strong>
+    <h2>📘 Projects I've contributed to</h2>
   </summary>
 
-  <br>
+  <!-- Repo info cards - https://github.com/ATOMNFT/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/ATOMNFT/github-readme-stats -->
 
-  <p align="center">
-    <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32">
-      <img
-        width="278"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=MULTI-Minigotchi-ESP32&theme=chartreuse-dark&title_color=AAFF00&icon_color=F8D866"
-        alt="MULTI-Minigotchi-ESP32"
-      />
-    </a>
+  <a href="https://github.com/ATOMNFT/MULTI-Minigotchi-ESP32">
+    <img
+      width="278"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=MULTI-Minigotchi-ESP32&theme=chartreuse-dark&title_color=AAFF00&icon_color=F8D866"
+      alt="MULTI-Minigotchi-ESP32"
+    />
+  </a>
 
-    <a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool">
-      <img
-        width="278"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=ESP32-Wi-Fi-Penetration-Tool&theme=chartreuse-dark&title_color=AAFF00&icon_color=F8D866"
-        alt="ESP32-Wi-Fi-Penetration-Tool"
-      />
-    </a>
-  </p>
+  <a href="https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool">
+    <img
+      width="278"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ATOMNFT&repo=ESP32-Wi-Fi-Penetration-Tool&theme=chartreuse-dark&title_color=AAFF00&icon_color=F8D866"
+      alt="ESP32-Wi-Fi-Penetration-Tool"
+    />
+  </a>
+
 </details>
 
 ---
